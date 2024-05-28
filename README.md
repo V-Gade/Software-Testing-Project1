@@ -1,5 +1,5 @@
 # Software-Testing-Project1
-Manual testing performed on OpenCart website. Emphasized on Login and New user Registration functionality.
+Manual testing performed on OpenCart website.Emphasized on Login and New user Registration functionality.
 
 Sample below
 
